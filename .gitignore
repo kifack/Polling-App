@@ -1,0 +1,4 @@
+node_modules
+.env
+backend/package-lock.json
+polling-app/package-lock.json
